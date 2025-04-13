@@ -1,0 +1,25 @@
+2025-04-13 23:33:26.285345 - Received CBT.V508.FILE856.PDS from FILE856.XMI 
+2025-04-13 23:33:26.287238 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:33:26.287342 - Found @@README.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/@@README
+2025-04-13 23:33:26.287481 - Found @ESSMDOC.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) in CBT.V508.FILE856.PDS, moved to docs/@ESSMDOC.docx
+2025-04-13 23:33:26.287570 - Found @ESSMTXT.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/@ESSMTXT
+2025-04-13 23:33:26.287663 - Found @FILE856.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/@FILE856
+2025-04-13 23:33:26.287772 - Found ALOCLIBS.jcl (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/ALOCLIBS
+2025-04-13 23:33:26.287856 - Found COPYLIBS.jcl (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/COPYLIBS
+2025-04-13 23:33:26.287935 - Found DISCLAIM.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/DISCLAIM
+2025-04-13 23:33:26.288017 - Found JES2PARM.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/JES2PARM
+2025-04-13 23:33:26.288429 - Found LSES500.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/LSES500
+2025-04-13 23:33:26.288516 - Found LSES500J.jcl (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/LSES500J
+2025-04-13 23:33:26.288875 - Found RAWASM.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/RAWASM
+2025-04-13 23:33:26.288966 - Found RAWJCL.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/RAWJCL
+2025-04-13 23:33:26.289076 - Found RAWMACS.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/RAWMACS
+2025-04-13 23:33:26.289328 - Found SSMINSTD.doc (application/msword) in CBT.V508.FILE856.PDS, moved to docs/SSMINSTD.doc
+2025-04-13 23:33:26.289932 - Found SSMINSTP.pdf (application/pdf) in CBT.V508.FILE856.PDS, moved to docs/SSMINSTP.pdf
+2025-04-13 23:33:26.290101 - Found SSMOPSGD.doc (application/msword) in CBT.V508.FILE856.PDS, moved to docs/SSMOPSGD.doc
+2025-04-13 23:33:26.290542 - Found SSMOPSGP.pdf (application/pdf) in CBT.V508.FILE856.PDS, moved to docs/SSMOPSGP.pdf
+2025-04-13 23:33:26.290739 - Found SSMUSERD.doc (application/msword) in CBT.V508.FILE856.PDS, moved to docs/SSMUSERD.doc
+2025-04-13 23:33:26.291115 - Found SSMUSERP.pdf (application/pdf) in CBT.V508.FILE856.PDS, moved to docs/SSMUSERP.pdf
+2025-04-13 23:33:26.291331 - Found STSCX01A.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/STSCX01A
+2025-04-13 23:33:26.291422 - Found STSCX05B.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/STSCX05B
+2025-04-13 23:33:26.291506 - Found STSCX15A.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/STSCX15A
+2025-04-13 23:33:26.291601 - Found STSCX36A.txt (text/plain) in CBT.V508.FILE856.PDS, moved to PDS/STSCX36A
